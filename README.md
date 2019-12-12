@@ -1,0 +1,1 @@
+This is skeleton code for an SDL2 program that has a window, a renderer, and an event loop that handles exiting the program.
